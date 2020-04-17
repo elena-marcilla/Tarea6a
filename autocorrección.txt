@@ -1,0 +1,7 @@
+Uno: Falta un fi que corresponda al segundo if
+Dos: hacer la operación antes del if, declarando una variable a parte para igualarla a 0 como condición
+Tres: Falta todos los fi, solo he puesto uno
+Cuatro: Falta inicializar las variables antes del bucle. 
+Cinco: La media debía hacerla fuera del echo y con el comando bc indicando con scale a cuantos decimales queremos, en este caso 2.
+Seis: me falta el while del principio y los -lt deben ser -le. De nuevo con bc pasar a los decimales deseados (2).
+Siete: No estaba terminado. Corrección sobre el archivo. 
